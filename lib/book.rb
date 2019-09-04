@@ -20,6 +20,6 @@
 # end
 
 class Book
-
+GENRES = []
 
 end
