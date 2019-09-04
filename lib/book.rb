@@ -25,4 +25,8 @@ class Book
   def initialize(genres)
     @genre = genre
   end
+
+  def genre =(genre)
+    @genre
+  end
 end
