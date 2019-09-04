@@ -23,6 +23,6 @@ class Book
   attr_reader :genre
 
   def initialize(genres)
-    @genre = genre 
+    @genre = genre
   end
 end
